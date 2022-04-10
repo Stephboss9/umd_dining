@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'UMD Dining Menu',
+      title: 'UMD Dining senu',
       theme: ThemeData(
           // This is the theme of your application.
           //
